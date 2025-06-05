@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "price": 199.99,
+      "description": "Experience crystal-clear sound with our premium wireless headphones featuring noise cancellation and 30-hour battery life.",
+      "image": "/images/headphones.jpg",
+      "rating": 4.8,
+      "reviews": 124,
+      "colors": ["black", "silver", "blue"],
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Ultra HD Smart TV",
+      "price": 899.99,
+      "description": "65-inch 4K Ultra HD Smart TV with HDR and built-in streaming apps for the ultimate viewing experience.",
+      "image": "/images/tv.jpg",
+      "rating": 4.6,
+      "reviews": 89,
+      "colors": ["black"],
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Ergonomic Office Chair",
+      "price": 249.99,
+      "description": "Comfortable ergonomic office chair with adjustable height, lumbar support, and breathable mesh back.",
+      "image": "/images/chair.jpg",
+      "rating": 4.5,
+      "reviews": 56,
+      "colors": ["black", "white", "gray"],
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "Smartphone Pro Max",
+      "price": 1099.99,
+      "description": "Flagship smartphone with professional-grade camera, 6.7-inch OLED display, and all-day battery life.",
+      "image": "/images/phone.jpg",
+      "rating": 4.9,
+      "reviews": 215,
+      "colors": ["midnight", "starlight", "blue"],
+      "inStock": true
+    }
+  ]
+}
